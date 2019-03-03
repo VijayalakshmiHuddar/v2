@@ -1,11 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is 5082-62AD
-
- Directory of C:\Users\Vijayalakshmi Huddar\Desktop\my project
-
-02-03-2019  18:15    <DIR>          .
-02-03-2019  18:15    <DIR>          ..
-02-03-2019  18:15    <DIR>          text.txt
-02-03-2019  18:15                 0 text1.txt
-               1 File(s)              0 bytes
-               3 Dir(s)  350,773,055,488 bytes free
+Haii
